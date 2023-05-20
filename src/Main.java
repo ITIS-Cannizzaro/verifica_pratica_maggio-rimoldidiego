@@ -4,3 +4,4 @@ public class Main {
     }
 
 }
+//ok Manca il tasto rimuovi ma è più che sufficiente!!
